@@ -10,6 +10,7 @@ public class EmployeeProApplication {
 		SpringApplication.run(EmployeeProApplication.class, args);
 		
 		System.out.println("hello");
+		System.out.println("hi jimmy");
 	}
 
 }
